@@ -1,7 +1,7 @@
 package com.bezkoder.springjwt.security.services;
 
 import java.util.Collection;
-import java.util.List;
+/*import java.util.List;
 import java.util.Objects;
 import java.util.stream.Collectors;
 
@@ -100,4 +100,4 @@ public class UserDetailsImpl implements UserDetails {
 		UserDetailsImpl user = (UserDetailsImpl) o;
 		return Objects.equals(id, user.id);
 	}
-}
+}*/

@@ -1,4 +1,4 @@
-package com.bezkoder.springjwt.security.jwt;
+/*package com.bezkoder.springjwt.security.jwt;
 
 import java.io.IOException;
 
@@ -24,4 +24,4 @@ public class AuthEntryPointJwt implements AuthenticationEntryPoint {
 		response.sendError(HttpServletResponse.SC_UNAUTHORIZED, "Error: Unauthorized");
 	}
 
-}
+}*/

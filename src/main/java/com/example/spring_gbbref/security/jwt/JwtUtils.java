@@ -1,4 +1,4 @@
-package com.bezkoder.springjwt.security.jwt;
+/*package com.bezkoder.springjwt.security.jwt;
 
 import java.util.Date;
 
@@ -55,4 +55,4 @@ public class JwtUtils {
 
 		return false;
 	}
-}
+}*/

@@ -1,4 +1,4 @@
-package com.bezkoder.springjwt.controllers;
+/*package com.bezkoder.springjwt.controllers;
 
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.CrossOrigin;
@@ -32,4 +32,4 @@ public class TestController {
 	public String adminAccess() {
 		return "Admin Board.";
 	}
-}
+}*/
